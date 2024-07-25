@@ -4,7 +4,7 @@ email: joseph.trevorrow@gmail.com # email of site's author
 url: https://josephtrevorrow.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p> I'm an PhD student at the University of Bristol. <br> <br> I have experience in HPC (Using C type languages), Python for RL, as well as a love for writing, technical analysis and research. <br> Research Interests: Multi-Agent Systems, Value Alignment, Civic AI, Sociotechnical Systems, Computational Ethics, AI and Public/Industrial Policy, Sociology, Ideology, Voting Theory </p>
+  <p> I'm an PhD student at the University of Bristol. <br> <br> I have experience in HPC (Using C type languages), Python for RL, as well as a love for writing, technical analysis and research. <br> <br> Research Interests: Multi-Agent Systems, Value Alignment, Civic AI, Sociotechnical Systems, Computational Ethics, AI and Public/Industrial Policy, Sociology, Ideology, Voting Theory </p>
 
 permalink: /:slug.html
 
