@@ -2,6 +2,10 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: <b> CV </b>
+    url: /jt_cv.pdf
+
+entries:
   - title: <b> Take a look at my projects! </b>
     entries:
       - title: Democratising Decision Making in Multi-Agent Systems (Work in Progress!)
