@@ -5,19 +5,19 @@ entries:
   - title: <b> CV </b>
     url: /jt_cv.pdf
 
-entries:
-  - title: <b> Take a look at my projects! </b>
-    entries:
-      - title: Democratising Decision Making in Multi-Agent Systems (Work in Progress!)
-        url: /
+  entries:
+    - title: <b> Take a look at my projects! </b>
+      entries:
+        - title: Democratising Decision Making in Multi-Agent Systems (Work in Progress!)
+          url: /
 
-entries:
-  - title: <b> Connect with me </b>
-    entries:
-      - title: Linkedin
-        url: https://www.linkedin.com/in/joseph-trevorrow/
-      - title: Github
-        url: https://github.com/JosephTrevorrow
-      - title: Email 
-        url: mailto:joseph.trevorrow@gmail.com
+  entries:
+    - title: <b> Connect with me </b>
+      entries:
+        - title: Linkedin
+          url: https://www.linkedin.com/in/joseph-trevorrow/
+        - title: Github
+          url: https://github.com/JosephTrevorrow
+        - title: Email 
+          url: mailto:joseph.trevorrow@gmail.com
 
