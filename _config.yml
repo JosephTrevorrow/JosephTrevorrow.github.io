@@ -4,7 +4,20 @@ email: joseph.trevorrow@gmail.com # email of site's author
 url: https://josephtrevorrow.github.io # root address of the site
 baseurl: "/" # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-  <p> I'm an PhD student at the University of Bristol. <br> <br> I have experience in Python for RL, HPC (Using C type languages), as well as a love for writing, technical analysis and research. <br> <br> Research Interests: Multi-Agent Systems, Value Alignment, Civic AI, Sociotechnical Systems, Computational Ethics, AI and Public/Industrial Policy, Sociology, Ideology, Voting Theory </p>
+  <p> I'm an PhD student at the University of Bristol Interactive AI Centre for Doctoral Training (CDT), supervised by Dr Nirav Ajmeri and Dr Emmanuele Ratti. I'm a part of the Social AI Lab at the University of Bristol.
+  <br> <br> 
+  My work is centred on value aligned collective decision making for multi-agent systems. I'm interested in creating group decision making methods that are autonomous, flexible to context, robust to risk, and value-aligned.
+  <br><br>
+  I have experience in Python for RL, HPC using C type languages, as well as a love for writing, technical analysis and research. 
+  <br> <br> 
+  Research Interests: Multi-Agent Systems, Civic AI, Sociotechnical Systems, AI and Public/Industrial Policy
+  </p>
+
+
+# Notes/News/Updates Section, if it ever becomes something I wish to add. Even so, I may only include times I have presented/published
+# April 2025 - I presented my work at the CCAIS Seminar Series as part of a spotlight talk on the Social AI Lab
+# April 2025 - I presented my work on Hierarchical Consensus Value Aggregation as part of the University of Bristol CDT Spring Conference.
+
 
 permalink: /:slug.html
 
@@ -26,3 +39,4 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+

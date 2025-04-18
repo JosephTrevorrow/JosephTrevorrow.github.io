@@ -5,10 +5,14 @@ entries:
   - title: <b> CV </b>
     url: /jt_cv.pdf
 
-  - title: <b> Connect with me </b>
+  - title: <b> Links </b>
     entries:
+      - title: Social AI Lab Homepage
+        url: https://uob-mas.github.io
+      - title: Interactive AI CDT Profile
+        url: https://www.bristol.ac.uk/cdt/interactive-ai/current-students/2023-cohort/trevorrow/
       - title: Linkedin
         url: https://www.linkedin.com/in/joseph-trevorrow/
-      - title: Email 
-        url: mailto:joseph.trevorrow@gmail.com
-
+      - title: Email
+        url: mailto:j.trevorrow@bristol.ac.uk
+      
