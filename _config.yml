@@ -20,6 +20,11 @@ description: > # description of the site (multiple lines allowed)
 # April 2025 - I presented my work at the CCAIS Seminar Series as part of a spotlight talk on the Social AI Lab
 # April 2025 - I presented my work on Hierarchical Consensus Value Aggregation as part of the University of Bristol CDT Spring Conference.
 
+## International Summer Schools and Conferences in Reverse Chron Order
+#(15-26 July 2024) ECAI Summer school 2024 (Athens)
+#(19-23 May 2025) AAMAS (Detroit)
+#(24-25 June 2025) CIVIC AI Workshop (Amsterdam)
+#(25-30 October 2025) ECAI (Bologna)
 
 permalink: /:slug.html
 
